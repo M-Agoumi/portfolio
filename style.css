@@ -53,6 +53,15 @@ body, html {
     text-decoration: underline;
 }
 
+.footer ul li p {
+    display: inline;
+    color: #BBB;
+}
+
+.footer a:visited {
+    color: #FFF;
+}
+
 @media (min-width: 768px) {
     .info h2 {
         font-size: 32px; /* Fixed font size for larger devices */
